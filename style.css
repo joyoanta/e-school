@@ -1,0 +1,127 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.topbar{
+
+    margin-top: 20px;
+    padding-bottom: 50px;
+}
+
+h1{
+
+    font-weight: 700;
+}
+
+#paragraph{
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+
+
+
+.start-button{
+
+    background: #21B573;
+    border-radius: 33px;
+    width: 153px;
+    height: 43px;
+    border: none;
+}
+
+section{
+
+    background: #F0FFF0;
+}
+
+
+.nav-item{
+
+    margin: 10px 0px;
+    font-weight: 500;
+    color: black;
+
+}
+
+.nav-link{
+
+    padding: 5px;
+    margin-left: 25px;
+    
+}
+
+.achivement{
+
+
+    margin-top: 100px;
+}
+
+.col-md-3 img{
+
+    margin-bottom: 20px;
+}
+
+
+
+.product
+
+{
+    
+    background: #F8FFFB;
+    border-radius: 10px;
+    
+   
+}
+
+.product img{
+
+    margin-top: 45px;
+
+}
+
+.card{
+
+    border: none;
+    border-radius: 18px;
+    
+    
+    
+    
+}
+
+.course-button{
+
+    background: #21B573;
+    border-radius: 33px;
+    width: 137px;
+    height: 35px;
+    border: none;
+    
+}
+
+.card-body h5{
+
+    font-weight: 600;
+}
+
+.card-footer{
+
+    border: none;
+    background-color: white;
+    font-size: 15px;
+    color: #585859;
+    
+}
+
+.card-footer img{
+
+    width: 24px;
+    height: 24px;
+
+}
