@@ -3,7 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
 
 }
-
+                                     /* First caresol Section */
 .topbar{
 
     margin-top: 20px;
@@ -24,7 +24,7 @@ h1{
     color: #6C6B6B;
 }
 
-
+                                         /* Button Customization */
 
 .start-button{
 
@@ -55,19 +55,20 @@ section{
     margin-left: 25px;
     
 }
-
+                                            /* Achivement Layer Section */
 .background{
 
     background-color: #F8FFFB;
+    margin: 0;
     padding: 20px 10px;
     height: 270px;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
     transition: all 0.5s;
   }
 
   .background:hover{
-    box-shadow: 5px 5px 15px lightgray;
+    box-shadow: 5px 5px 10px lightgray;
     background-color: white;
     padding: 20px 10px;
     height: 270px;
@@ -99,31 +100,12 @@ section{
     margin-bottom: 20px;
 }
 
-
-
-.product
-
-{
-    
-    background: #F8FFFB;
-    border-radius: 10px;
-    
-   
-}
-
-.product img{
-
-    margin-top: 45px;
-
-}
+                                                /* Course Gallery Card section */
 
 .card{
 
     border: none;
     border-radius: 18px;
-    
-    
-    
     
 }
 
@@ -157,7 +139,7 @@ section{
     height: 24px;
 
 }
-
+                                                 /* Testimonial section */                    
 .man img{
 
     height: 120px;
@@ -172,7 +154,7 @@ section{
 }
 
 
-
+                                              /* footer section */
 footer{
 
     margin-top: 50px;
